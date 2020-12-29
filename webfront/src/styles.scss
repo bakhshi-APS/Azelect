@@ -1,0 +1,34 @@
+html, body { height: 100%; }
+@import "~fomantic-ui/dist/components/button.min.css";
+@import "~fomantic-ui/dist/components/calendar.min.css";
+@import "~fomantic-ui/dist/components/card.min.css";
+@import "~fomantic-ui/dist/components/checkbox.min.css";
+@import "~fomantic-ui/dist/components/container.min.css";
+@import "~fomantic-ui/dist/components/dimmer.min.css";
+@import "~fomantic-ui/dist/components/divider.min.css";
+@import "~fomantic-ui/dist/components/dropdown.min.css";
+@import "~fomantic-ui/dist/components/form.min.css";
+@import "~fomantic-ui/dist/components/grid.min.css";
+@import "~fomantic-ui/dist/components/header.min.css";
+@import "~fomantic-ui/dist/components/icon.min.css";
+@import "~fomantic-ui/dist/components/input.min.css";
+@import "~fomantic-ui/dist/components/label.min.css";
+@import "~fomantic-ui/dist/components/loader.min.css";
+@import "~fomantic-ui/dist/components/menu.min.css";
+@import "~fomantic-ui/dist/components/modal.min.css";
+@import "~fomantic-ui/dist/components/popup.min.css";
+@import "~fomantic-ui/dist/components/reset.min.css";
+@import "~fomantic-ui/dist/components/shape.min.css";
+@import "~fomantic-ui/dist/components/site.min.css";
+@import "~fomantic-ui/dist/components/table.min.css";
+@import "~fomantic-ui/dist/components/text.min.css";
+@import "~fomantic-ui/dist/components/toast.min.css";
+@import "~fomantic-ui/dist/components/transition.min.css";
+
+
+.form {
+  .inline-input-message {
+    font-size: .8em;
+    color: #9f3a38;
+  }
+}
